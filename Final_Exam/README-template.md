@@ -55,6 +55,9 @@ render Error message shows that I can't deploy?
 
 ---
 
+
+<img width="417" height="282" alt="image" src="https://github.com/user-attachments/assets/6d6bdd2b-197c-4864-b05b-437e865339cc" />
+
 ## Error detection
 
 Briefly explain what you corrected and how you moved the correction from staging to production.
