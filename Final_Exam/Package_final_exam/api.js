@@ -10,7 +10,7 @@ app.get('/presentation', (req, res) => {
 });
 
 // This endpoint contains a small error that students must correct.
-app.get('/correction', (req, res) => {
+app.get('MYAPI', (req, res) => {
   res.send('Correction endpoint is working');
 });
 
