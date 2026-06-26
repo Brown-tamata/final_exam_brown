@@ -2,23 +2,23 @@
 
 ## Student information
 
-**Student name:** *YOUR NAME HERE*
+**Student name:** *Brown TAMATA*
 
-**GitHub repository URL:** *PASTE YOUR REPOSITORY URL HERE*
+**GitHub repository URL:** *https://github.com/Brown-tamata/final_exam_brown.git*
 
-**Render application URL:** *PASTE YOUR RENDER URL HERE*
+**Render application URL:** *https://final-exam-brown.onrender.com*
 
 ---
 
 ## Application information
 
-**Application name:** *Final Exam - YOUR NAME*
+**Application name:** *Final Exam -brown*
 
-**Render project name:** *Final Exam - YOUR NAME*
+**Render project name:** *final_exam_brown*
 
-**Branch used for production deployment:** **main**
+**Branch used for production deployment:** **ITDI204(main)**
 
-**Staging branch name:** **staging**
+**Staging branch name:** **Used Staging as default**
 
 ---
 
