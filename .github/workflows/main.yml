@@ -23,9 +23,11 @@ jobs:
 
       - name: Install dependencies
         run: npm install
+        working-directory: Final_Exam/Package_final_exam
 
       - name: Run app
-        run: node api.js &
+        run: npm start &
+        working-directory: Final_Exam/Package_final_exam
 
       - name: Wait for server
         run: sleep 3
@@ -35,6 +37,6 @@ jobs:
 
       - name: Test EndPoint Correction
         run: curl -f http://localhost:3000/correction
-            
+
       - name: Stop server
-        run: pkill node
+        run: pkill node || true
