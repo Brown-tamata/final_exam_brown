@@ -33,6 +33,9 @@
 **Environment variable ENV:** **Production**
 
 ---
+render Error message shows that I can't deploy?
+<img width="1505" height="275" alt="image" src="https://github.com/user-attachments/assets/5e4d11a8-9f10-4ee9-8190-332c072c1bff" />
+
 
 ## API endpoints to test
 
