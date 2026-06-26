@@ -64,3 +64,5 @@ Briefly explain what you corrected and how you moved the correction from staging
 
 **Explanation:**  
 *WRITE YOUR EXPLANATION HERE*
+
+<img width="1130" height="1746" alt="image" src="https://github.com/user-attachments/assets/874da3d9-db0e-46ae-8058-af992c7c7e7a" />
